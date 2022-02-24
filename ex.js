@@ -1,0 +1,1 @@
+console.log(["a", "b", "c"].concat(["d", "e", "f"]))
